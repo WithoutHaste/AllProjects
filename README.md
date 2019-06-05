@@ -16,7 +16,7 @@ Supports: UML diagrams, nested scopes, arrows crossing scopes, and aliases.
 
 EarlyDocs generates Markdown documentation for your .Net library, based on your Xml comments and object structure.
 
-Install the EarlyDocs NuGet package to insert EarlyDocs into your build process. It will run after your project build is complete. Errors in EarlyDocs will not affect your build.
+Install the EarlyDocs [NuGet package](https://www.nuget.org/packages/EarlyDocs/) to insert EarlyDocs into your build process. It will run after your project build is complete. Errors in EarlyDocs will not affect your build.
 
 Built on top of [WithoutHaste.DataFiles](https://github.com/WithoutHaste/WithoutHaste.DataFiles) library.
 
@@ -43,6 +43,8 @@ Desktop paint application for coloring in black and white outline images using g
 ### [WithoutHaste.DataFiles](https://github.com/WithoutHaste/WithoutHaste.DataFiles)
 
 .Net library for loading or creating XmlDocument, ExcelPackage, .Net XML documentation, or Markdown files.
+
+Install with [NuGet](https://www.nuget.org/packages/WithoutHaste.DataFiles/).
 
 Basis for EarlyDocs.
 
