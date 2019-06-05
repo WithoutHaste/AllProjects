@@ -6,17 +6,25 @@ A list of all public projects from Without Haste.
 
 Collection of notes and code snippets from over a decade of programming.
 
+## [Pinker](https://github.com/WithoutHaste/Pinker)
+
+A standalone JavaScript library for rendering code dependency diagrams on your web page.
+
+Supports: UML diagrams, nested scopes, arrows crossing scopes, and aliases.
+
 ## [EarlyDocs](https://github.com/WithoutHaste/EarlyDocs)
 
 EarlyDocs generates Markdown documentation for your .Net library, based on your Xml comments and object structure.
 
 Install the EarlyDocs NuGet package to insert EarlyDocs into your build process. It will run after your project build is complete. Errors in EarlyDocs will not affect your build.
 
+Built on top of [WithoutHaste.DataFiles](https://github.com/WithoutHaste/WithoutHaste.DataFiles) library.
+
 ## [Tamarin Task Manager](https://github.com/WithoutHaste/TamarinTaskManager)
 
 Bare-bones task manager for single users, mainly intended for my own use.
 
-Saves to Microsoft Excel 2003 XML format.
+Saves to Microsoft Excel 2003 XML format (version-control-friendly).
 
 ## [Spire](https://github.com/WithoutHaste/Spire)
 
