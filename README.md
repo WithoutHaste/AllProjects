@@ -2,7 +2,7 @@
 
 A list of all public projects from Without Haste.
 
-## [Code Notes](http://withouthaste.com/codeNotes/index.html)
+## [Code Notes](http://withouthaste.com/)
 
 Collection of notes and code snippets from over a decade of programming.
 
