@@ -6,6 +6,12 @@ A list of all public projects from Without Haste.
 
 Collection of notes and code snippets from over a decade of programming.
 
+## [Serial Scene](https://github.com/WithoutHaste/BrowserExt_SerialScene)
+
+A Firefox extension.
+
+Keep a single bookmark for a serial work, and it will be updated as you read. For webcomics, fiction, and blogs.
+
 ## [Pinker](https://github.com/WithoutHaste/Pinker)
 
 A standalone JavaScript library for rendering code dependency diagrams on your web page.
