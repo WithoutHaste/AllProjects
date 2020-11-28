@@ -6,6 +6,13 @@ A list of all public projects from Without Haste.
 
 Collection of notes and code snippets from over a decade of programming.
 
+## [Names Abound](https://github.com/WithoutHaste/Names)
+
+Practice project: Azure, SQL Server, WCF Service, Asp.Net MVC Site
+
+A webpage for looking up first names without ads or paging.  
+[www.NamesAbound.com](http://www.namesabound.com/)
+
 ## [Serial Scene](https://github.com/WithoutHaste/BrowserExt_SerialScene)
 
 A Firefox extension.
