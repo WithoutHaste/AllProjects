@@ -6,6 +6,10 @@ A list of all public projects from Without Haste.
 
 Collection of notes and code snippets from over a decade of programming.
 
+## [Dungeons and Dragons](http://github.com/WithoutHaste/Dungeonsanddragons)
+
+Dungeons and Dragons references, notes, and scenarios.
+
 ## [Names Abound](https://github.com/WithoutHaste/Names)
 
 Practice project: Azure, SQL Server, WCF Service, Asp.Net MVC Site
